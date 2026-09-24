@@ -26,7 +26,7 @@ YouTube is manual: type the name yourself in the dashboard, press Print, and the
 
 The ready-to-run Windows package is available on Gumroad:
 
-**[Download TikTokPen Portable on Gumroad](PASTE-YOUR-GUMROAD-LINK-HERE)**
+**[Download TikTokPen Portable on Gumroad](https://penplotterindonesia.gumroad.com/)**
 
 The paid ZIP is not stored in this public repository.
 
