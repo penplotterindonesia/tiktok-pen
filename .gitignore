@@ -1,0 +1,17 @@
+# secrets and machine-specific files
+.env
+users.json
+cnc_config.json
+
+# backups and caches
+_BACKUP_SEMUA/
+__pycache__/
+*.pyc
+
+# build artifacts (do not publish the paid ZIP)
+build/
+dist/
+*.spec
+
+# local note
+GUMROAD_LINK.local

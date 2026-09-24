@@ -1,0 +1,1 @@
+Portable Windows app for GRBL pen plotters: automatic TikTok LIVE name queue, manual YouTube names, Set Zero, one-click start. No Python install.
